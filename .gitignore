@@ -1,0 +1,13 @@
+# データ
+data/
+
+# 学習済みモデル
+models/
+
+# Python
+__pycache__/
+*.pyc
+
+# モデルファイル
+*.pkl
+*.joblib
